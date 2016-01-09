@@ -19,11 +19,35 @@
 	width: 100%;
 	height: 300px;
 }
-h3{
+h3,h2{
     text-align: center;
     color: darkblue;
     font-size: 400;
 }
 .cease{
+    color: crimson;
+}
+p.revival{
+    font-family: 'Lora', serif;
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+    color: black !important;
+    font-size: 15px;
+}
+
+
+.customized-image{
+  max-height: 100px !important;
+  max-width: 100px !important;
+    
+}
+
+.item-divider{
+    background-color: white !important;
+}
+
+blockquote{
     color: crimson;
 }
